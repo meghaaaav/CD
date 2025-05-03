@@ -1,0 +1,4 @@
+3. DFA https://github.com/VikashPR/18CSC304J-CD/blob/main/NFA-to-DFA.cpp
+
+4. https://github.com/VikashPR/18CSC304J-CD/blob/main/LeftFactoring.cpp
+https://github.com/VikashPR/18CSC304J-CD/blob/main/LeftRecursion.cpp
